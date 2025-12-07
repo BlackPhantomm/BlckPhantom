@@ -43,10 +43,3 @@ Here is a quick look at the languages and technologies I use or have worked with
 ---
 
 <div align="center">
-
-## 🌸 Cornflower Feature
-
-Here is a beautiful Cornflower (Bachelor's Button) for a touch of nature!
-![Close-up of a vibrant blue Cornflower (Bachelor's Button) bloom.](path/to/your/cornflower_image.jpg)
-
-</div>
