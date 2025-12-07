@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👻 Hello World! I'm Phantom (Zack)
+# 👻 Hello World! I'm Phantom
 
 ## 💻 Tech Enthusiast & FiveM Developer
 
